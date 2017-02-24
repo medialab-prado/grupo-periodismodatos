@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<title>Ejercicio 1.1</title>
+		<script type="text/javascript" src="http://www.ine.es/menus/js/jquery.js"></script>
+		<script type="text/javascript" src="ejercicio1.1.js"></script>
+	</head>
+	<body>
+		<div id="miTabla"></div>
+		<script>
+			cargadatos();
+			
+			var capa = document.getElementById("miTabla");
+			
+			// Crea un elemento <table> y un elemento <tbody>
+			var tabla   = document.createElement("table");
+			var tblHead = document.createElement("thead");
+			var tblBody = document.createElement("tbody");
+			
+			// Creamos la cabecera de la tabla
+			tblHead.appendChild(document.createElement("th"));
+			for (var i=0; i<periodos.length; i++){
+				var nodoTH = document.createElement("th");
+				var nodoTxtTH = document.createTextNode(periodos[i]);
+				nodoTH.appendChild(nodoTxtTH);
+				tblHead.appendChild(nodoTH);
+			}
+			tabla.appendChild(tblHead);
+			
+			// Creamos el contenido de la tabla
+			for (var k=0; k<tablaDatos.length; k++){
+				var nodoTR = document.createElement("tr");
+				var nodoTHC = document.createElement("th");
+				var nodoTxtTHC = document.createTextNode(tablaDatos[k].categ);
+				nodoTHC.appendChild(nodoTxtTHC);
+				nodoTR.appendChild(nodoTHC);
+				for (var j=0; j<tablaDatos[k].datos.length; j++){
+					var nodoTD = document.createElement("td");
+					var nodoTxtTD = document.createTextNode(tablaDatos[k].datos[j].dato);
+					nodoTD.appendChild(nodoTxtTD);
+					nodoTR.appendChild(nodoTD);
+				}
+				tblBody.appendChild(nodoTR);
+			}
+			tabla.appendChild(tblBody);
+			
+			// Insertamos la tabla en la capa
+			capa.appendChild(tabla);
+			
+		</script>		
+	</body>
+</html>

@@ -1,0 +1,67 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Mapas con QGIS y D3js
+#+DATE: [2016-12-16 mié 16:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+Periodistas y programadores, no os perdáis la octava sesión de[[https://twitter.com/journocodersmad][ @JournocodersMAD]] el próximo sábado 18 de febrero. Estará con nosotros Luis Sevillano, programador de [[http://elindependiente.com][El Independiente]], para enseñarnos cómo trabaja con [[http://qgis.org/][QGIS]] y [[https://d3js.org/][D3js]] para realizar mapas.
+
+QGIS es uno de los programas más utilizados para quienes trabajan con sistemas de información geográfica (SIG, GIS en inglés). D3js es una librería gráfica de Javascript que permite crear visualizaciones a medida utilizando los estándares de la Web, es decir, HTML, CSS y SVG. El uso de ambas por parte de periodistas cada vez está más extendido e incluso QGIS cuenta con un [[https://plugins.qgis.org/plugins/d3MapRenderer/][plugin para renderizar mapas D3]].
+
+#+CAPTION:  Mapa ‘Upside down’. Distancias desde Sidney a las principales ciudades del mundo. Luis Sevillano. Publicado en El Independiente http://www.elindependiente.com/tendencias/2017/01/23/la-construccion-de-sidney/
+#+ATTR_HTML: :alt Mapa ‘Upside down’. Distancias desde Sidney a las principales ciudades del mundo. Luis Sevillano. Publicado en El Independiente http://www.elindependiente.com/tendencias/2017/01/23/la-construccion-de-sidney/ :title sidney
+file:///australia-desktop-t-1436x808.jpg
+
+* Dónde
+
+Cantina de Medialab-Prado
+* Agenda
+<2017-02-18 sáb 12:00-14:15>
+- 12:00-12:10, presentación de Journocoders Madrid y de las distintas actividades de periodismo de datos de Medialab-Prado.
+- 12:10-12:15, presentación del taller y Show&Tell: qué artículos, reportajes o proyectos que mezclen periodismo y programación te han gustado en el último mes? Los compartiremos a través del hashtag periodismodatos. 
+- 12:15-14:15, taller de QGIS y D3js
+* Recomendaciones
+- Traer QGIS descargado y, a ser posible, instalado.
+- Lxs asistentes deben traer su ordenador portátil para seguir el taller.
+- Hay conexión WiFi disponible.
+- Puedes Utilizar el hashtag #periodismodatos para dar cobertura del evento o seguirlo desde fuera.
+
+* Aviso
+La sesión no tendrá streaming. Al tratarse de un taller muy práctico, seguimos un tutorial colgado en Github y con la experiencia del taller lo mejoramos y queda colgado y disponible para su consulta.
+
+* Journocoders Madrid
+Adrián Blanco Ramos ([[https://twitter.com/adrianblancor][@AdrianBlancoR]]) organiza JournocodersMAD, versión madrileña del meetup londinense Journocoders creado por Elliot Bentley, editor gráfico de The Wall Street Journal, y co-organizado por Mevan Babakar, Leila Haddou y Basile Simon.
+* Post sesión
+Para los que pudisteis venir y para los que no, os dejo el [[https://github.com/LuisSevillano/QGIS-and-d3][tutorial]] que preparó Luis para que podáis practicar con tranquilidad. Está muy buen documento, así que ánimo y a mejorar vuestros conocimientos en QGIS y D3.
+
+Además, para que tengáis una idea los mapas que podéis generar si seguís los pasos del taller de D3, aquí tenéis los GIST con los proyectos finales:
+- [[https://bl.ocks.org/LuisSevillano/f52c3e97e895321e0bbe777eef3d3972][Simple canvas map]]
+- [[https://bl.ocks.org/LuisSevillano/9ad9c025a1fd9e82df64203bb8969c3d][Retina canvas map]]
+- [[https://bl.ocks.org/LuisSevillano/3fe490c429b59f79aa83b0ddc78ca08c][Assign data from csv to a canvas map]]
+
+
+¡Hasta el próximo!

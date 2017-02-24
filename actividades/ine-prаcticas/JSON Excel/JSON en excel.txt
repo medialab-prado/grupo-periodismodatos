@@ -1,0 +1,12 @@
+
+
+1. Descargar la ultima version de la librerina VBA-JSON de:
+   https://github.com/VBA-tools/VBA-JSON/releases
+   
+2. Extraer el .bas
+
+3. Crear una hoja excel con macros xlsm 
+
+4. Añadir el modulo VBA-JSON
+
+5. Añadir la refernecia a Microsoft scripting runtime en Herramientas > Referencias > 

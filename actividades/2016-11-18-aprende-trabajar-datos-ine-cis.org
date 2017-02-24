@@ -1,0 +1,59 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: datalab, evento, periodismodatos
+#+TAGS: cis, ine, microdatos, api, estadísticas, estadística 
+#+DESCRIPTION: Cómo trabajar con datos del INE y del CIS
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Aprende a trabajar con datos del INE y del CIS
+#+DATE: [2016-11-18 vie 16:00]
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+#+LATEX_HEADER: \addto\captionsenglish{\renewcommand{\contentsname}{{\'I}ndice}}
+#+LATEX_HEADER: \renewcommand{\contentsname}{Índice}
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Herramientas de Scraping de PDF y Web.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+#+LATEX_HEADER: \maketitle
+#+LATEX_HEADER: \tableofcontents
+
+¡Periodistas y programadorxs! No os perdáis la séptima sesión de [[https://twitter.com/journocodersmad][@JournocodersMAD]] del [[http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabajo][Grupo de Periodismo de Datos]]. Estarán con nosotros Adolfo Gálvez Moraleda y Laura Guerrero Gómez, del [[http://ine.es/datosabiertos][Instituto Nacional de Estadística]] (INE), que nos contarán cómo trabajar con la [[http://www.ine.es/dyngs/DataLab/en/manual.html?cid=45][API del INE]]; Carlos Gil Bellosta, científico de datos , ofrecerá un taller para iniciarnos a trabajar con los [[http://www.cis.es/cis/opencms/ES/Novedades/Microdatos.html][microdatos de encuestas del Centro de Investigaciones Sociológicas]] (CIS); y [[http://medialab-prado.es/person/laura_tejedor][Laura Tejedor]] nos contará cómo trabajar con datos de ambas instituciones a partir del proyecto elaborado con María Navarro, [[https://elcisendatos.com/][El Cis en Datos]].
+
+#+CAPTION: Media & Makers
+#+NAME: Imagen de cucchiaio. Media & Makers: Juba – Working Group O2 (1) playability.de/. https://www.flickr.com/photos/cucchiaio/8286829055/
+http://medialab-prado.es/mmedia/19/19431/500_0.jpg
+
+
+Adolfo y Laura proponen un taller para que mejore tu aprovechamiento de la información publicada por el INE: Se expondrán de manera práctica las utilidades a disposición de los usuarios para una mejor explotación de la información publicada y las posibilidades de reutilización de la información mediante el uso de API.
+
+Carlos es el promotor de esta [[https://www.change.org/p/centro-de-investigaciones-sociol%25C3%25B3gicas-que-el-cis-publique-los-microdatos-de-sus-encuestas-en-formatos-reutilizables][petición en Change.org en pro de la reutilización de los microdatos del CIS]]. El objetivo es que el CIS facilite la importación de los microdatos que cuelga en su banco de datos, incluidos los barómetros mensuales. Actualmente, proporcionan esos microdatos, más código para importarlos. Pero, desafortunadamente, solo código en SPSS, una herramienta propietaria. Aunque muchos sociólogos cuentan con la herramienta (las universidades pagan ese tipo de licencias) muchos otros usuarios potenciales de los datos (entre ellos los periodistas de datos), probablemente no.
+
+Por ello, Carlos nos enseñará a trabajar en R con el [[https://www.datanalytics.com/tag/microdatoses/][paquete MicroDatosEs]] para acceder fácilmente a determinados ficheros de microdatos españoles. En particular, aquellos que tienen una estructura homogénea en el tiempo (p.e., la EPA) .
+
+Previamente, si alguien lo desea, realizaremos un Show&Tell (mira lo que he visto, qué guapo!): ¿qué artículos, reportajes o proyectos que mezclen periodismo y programación te han gustado en el último mes? Los compartiremos a través del hashtag [[https://twitter.com/search?q=periodismodatos&src=typd][#periodismodatos]].
+
+* Programa
+
+- 17:30-18-30 – Taller API INE
+- 18:30-19:30 -- Taller Microdatos CIS
+- 19:30-20:00 – Taller de visualización de datos CIS + INE
+- 20:00 – Cháchara
+
+* Comentarios
+
+- Lxs asistentes deben traer su ordenador portátil para seguir el taller.
+- Traer descargado R, y a ser posible, instalado
+- Hay conexión WiFi disponible.
+- Puedes Utilizar el hashtag [[https://twitter.com/search?q=periodismodatos&src=typd][#periodismodatos]] para dar cobertura del evento o seguirlo desde fuera.
+- Apúntate al [[https://www.meetup.com/es-ES/Madrid-Periodismo-de-datos-Meetup/events/235620497][Meetup del grupo de periodismo de datos]].
