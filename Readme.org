@@ -12,18 +12,22 @@ El grupo de trabajo de periodismo de datos lleva en funcionamiento desde el 20 d
 
 Durante este tiempo hemos realizado numerosas actividades, transmitidas la mayoría en directo en redifusión de audio y vídeo y por Twitter con la etiqueta [[https://twitter.com/search?q%3D%2523periodismodatos&src%3Dhash][#periodismodatos]].
 
-* Índice								:TOC:
-A continuación presentamos los detalles sobre el grupo:
-
-- [[#orgtarget1][¿Qué es el grupo de trabajo sobre Periosdismo de Datos?]]
-- [[#orgtarget2][Actividades]]
-- [[#orgtarget3][Archivo]]
-- [[#orgtarget4][¿Cómo participar?]]
-
 #+CAPTION: Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]]
 #+ATTR_HTML: :alt Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado. [[https://creativecommons.org/licenses/by-nc/2.0/][Licencia CC]] :title EditorsLab_2015
 https://farm1.staticflickr.com/528/18488623448_0db1dfac00_z_d.jpg
 
+#+BEGIN_HTML
+<img src="https://farm1.staticflickr.com/528/18488623448_0db1dfac00_z_d.jpg" alt="Imagen de GEN de la edición del Editors Lab 2015 en Medialab-Prado" title="EditorsLab 2015" />
+#+END_HTML
+
+* Índice								:TOC:
+ - [[#qué-es-el-grupo-de-trabajo-sobre-periodismo-de-datos][¿Qué es el grupo de trabajo sobre periodismo de datos?]]
+ - [[#actividades][Actividades]]
+ - [[#archivo][Archivo]]
+ - [[#participa][Participa]]
+   - [[#lista-de-correo][Lista de correo]]
+   - [[#twitter][Twitter]]
+   - [[#meetup][Meetup]]
 
 * ¿Qué es el grupo de trabajo sobre periodismo de datos?		:TOC:
   :PROPERTIES:
