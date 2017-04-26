@@ -1,0 +1,72 @@
+#+TITLE: Periodismo de Datos. Crea visualizaciones interactivas con Tableau Public. Presentación de trabajos del Máster en Periodismo de Investigación, Datos y Visualización.
+#+DATE: 24-06-2014
+#+DESCRIPTION:
+#+PERMALINK:
+#+PARENT:
+
+La decimooctava sesión del [[http://medialab-prado.es/article/periodismo_de_datos_-_grupo_de_trabajo][Grupo de Trabajo de Periodismo de Datos]] Medialab Prado cerrará las sesiones del curso 2013-2014, y lo haremos de una forma un poco diferente, culminando con unas cervezas en un tiempo de networking.
+
+Vamos a disfrutar de un taller de Tableau Public, uno de los programas de referencia en la visualización de datos, a cargo de Gonzalo Prieto. Estará precedido de la presentación de algunos trabajos realizados por alumnas del [[http://www.escuelaunidadeditorial.es/master-periodismo-de-investigacion.html][Máster en Periodismo de Investigación, Datos y Visualización]] de la [[http://www.escuelaunidadeditorial.es/][Escuela de Unidad Editorial]] y la [[http://www.urjc.es/][Universidad Rey Juan Carlos]].Para finalizar, dejaremos espacio para el libre albedrío acompañadxs de unas cervezas.
+
+#+CAPTION: Ejemplo de visualización y mapeo con Tableau Public
+#+NAME:   fig:Tableau Public España
+http://public.tableausoftware.com/static/images/Pr/PresupuestosdelasEntidadeslocalesenEspana2011/PresupuestosdelasEntidadeslocales/1_rss.png
+
+Con esta sesión, además de cerrar la temporada, pretendemos hacer más
+partícipe a la comunidad de las sesiones que organizamos. Así, quien
+quiera compartir con lxs demás un saber concreto sobre una tecnología,
+una metodología, una forma de hacer las cosas o un proyecto que tiene en
+mente o en el que ha trabajado, no tendrá más que proponerlo a través de
+la [[http://comunidad.medialab-prado.es/][comunidad de Medialab]] y del [[http://comunidad.medialab-prado.es/es/proyectos/propuesta-de-sesiones-para-periodismo-datos][grupo creado]].
+
+* Actividades
+** 16:00-16:45 Presentación del portal de Datos Abiertos del Ayuntamiento de Madrid
+El [[http://datos.madrid.es][Portal de Datos Abiertos del Ayuntamiento de Madrid]] está dedicado a promover el acceso a los datos del gobierno municipal e impulsar el desarrollo de herramientas creativas para atraer y servir a los ciudadanos de la ciudad de Madrid. Contaremos con dos de sus responsables, Honorio Enrique Crespo Díaz-Alejo y Luisa Ana Blanco Losada para darnos a conocer el proyecto y resolver nuestras dudas.
+** 16:45-17:30 Presentación de proyectos
+Abren la sesión varias alumnas del Máster de Periodismo de
+Investigación de El Mundo, que nos presentarán sus proyectos. Esta
+actividad también ha sido propuesta, en esta ocasión, por Marcos García
+Rey, coordinador del máster y participante de esta comunidad. 
+- Tatiana Velásquez Archibold, /Violencia de pareja: múltiples batallas que ya no se libran a puerta cerrada/.
+- Marta Ley, /Calidad de las aguas del río Henares/.
+- Verónica Ramírez, /Envenenamiento de animales salvajes en la Comunidad de Madrid/
+** 17:30-18:00 Descanso
+** 18:00-19:30 Taller de Tableau Public
+Gonzalo Prieto, miembro de esta comunidad, nos propuso el taller de
+Tableau Public durante las pasadas Jornadas de Periodismo de Datos
+#jpd14, y la idea se ha concretado. El taller busca acercar a todos los públicos este programa de visualización de datos con el que podemos crear, en cuestión de minutos, visualizaciones interactivas que van desde gráficos a mapas. Recientemente Tableau ha anunciado que la aplicación también está disponible para Mac.
+
+A lo largo de una hora y media, en el taller, se mostrarán las funcionalidades de Tableau a través de un ejercicio práctico. Para poder seguir el taller es necesario tener instalado Tableau. No os olvidéis traer descargado e
+instalado el programa http://www.tableausoftware.com/public/download 
+** 19:30-21:00 Networking cervezas
+El evento finalizará con una sesión de networking-charla_animada
+acompañada por cervezas :)
+
+* Bios
+** Honorio Enrique Crespo
+Gestor del [[http://datos.madrid.es][portal de Datos Abiertos del Ayuntamiento de Madrid]], es ingeniero informático por la U. Pontificia de Salamanca, y perteneciente a los cuerpos TIC de la Administración General del Estado, actualmente trabaja como jefe departamento en el Ayuntamiento de Madrid, en la D. G. de Calidad y Atención al Ciudadano, Subdirección de Administración Electrónica, después de haber pasado por la AGE y también brevemente por la Comunidad de Madrid.
+ También forma parte de la junta directiva de ASTIC (Asociación Profesional de Cuerpos Superiores de Sistemas y Tecnologías de la Información de las Administraciones Públicas) y dentro de dicha asociación colabora con la iniciativa de podcast de ASTIC, que mensualmente realizan junto con Miguel Ángel Rodriguez y Javier Morales, entrevistando a directivos TIC.
+** Gonzalo Prieto
+Periodista especializado en Comunicación Corporativa e Institucional. Trabajó en RNE, Europa Press o la Cadena Ser.  Interesado por los datos y la visualización, mantiene [[http://gonzaloprieto.es][gonzaloprieto.es]] y un blog especializado en geopolítica y análisis de datos, [[http://geografiainfinita.com][geografiainfinita.com]], donde prueba el uso de datos y su visualización, pequeñas piezas de trabajo de periodismo de datos.
+Participa activamente en las actividades organizadas por el grupo de trabajo de Periodismo de Datos de Medialab Prado y en las actividades relacionadas con Big Data o visualización.
+
+** Tatiana Velásquez Archibold
+Periodista colombiana en ejercicio desde 2004 y apasionada por las nuevas tecnologías. Ha trabajado en los diarios [[http://elheraldo.co/][El Heraldo]] y [[http://diarioadn.co/barranquilla][Casa Editorial el Tiempo]], donde destaca su participación en la serie de artículos [[http://www.elheraldo.co/local/un-ejercicio-contra-el-olvido][Contra el Olvido]], como homenaje a las víctimas del paramilitarismo, y en el especial multimedia sobre la [[http://tatta25.wix.com/surdelatlantico][inundación del Sur del Atlántico]]. Actualmente cursa en Madrid el [[www.escuelaunidadeditorial.es/master-periodismo-de-investigacion.html][Máster en Periodismo de Investigación, Datos y Visualización]] coorganizado por Unidad Editorial y la Universidad Rey Juan Carlos.
+** Marta Ley
+Marta Ley (Alcalá de Henares, 1990), graduada en Periodismo y Comunicación Audiovisual (Universidad Rey Juan Carlos, 2013). Actualmente cursa el  [[www.escuelaunidadeditorial.es/master-periodismo-de-investigacion.html][Máster en Periodismo de Investigación, Datos y Visualización]] coorganizado por Unidad Editorial y la Universidad Rey Juan Carlos.
+** Verónica Ramírez
+Verónica Ramírez (Madrid, 1986). Periodista (licenciada por la Universidad Rey Juan Carlos, 2010), especializada en Periodismo Científico (UNED, 2010). En su trayectoria profesional ha pasado por El Mundo, France 3 Corse, Rednatura2000.info, Foresta, Technology Review y El Confidencial, donde ha trabajado en diversas áreas temáticas: ciencia, medio ambiente, tecnología, salud, psicología, bienestar o cultura.
+
+Sus ganas de aprender y su interés por la especialización en
+periodismo de datos la impulsaron a unirse a la segunda edición del
+[[www.escuelaunidadeditorial.es/master-periodismo-de-investigacion.html][Máster en Periodismo de Investigación, Datos y Visualización]]
+coorganizado por Unidad Editorial y la Universidad Rey Juan Carlos,
+donde ha podido aprehender una metodología de investigación cercana a
+la usada de forma pragmática por el [[http://www.icij.org/][International Consortium of
+Investigative Journalists]] y a la explicada en el libro [[http://unesdoc.unesco.org/images/0022/002264/226457s.pdf][La
+investigación a partir de historias: Manual para periodistas de
+investigación]].
+
+* Enlaces
+- [[http://datos.madrid.es][Portal Datos Ayuntamiento de Madrid]]
+- [[http://geografiainfinita.com]] 
